@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=python-download-images">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=python-download-images">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -90,7 +90,7 @@ Images are usually copyrighted. Download only what you are allowed to use, and r
 - [python-async-scraping](https://github.com/FusionProxies/python-async-scraping): asyncio for many requests at once
 - [rotating-proxies-python](https://github.com/FusionProxies/rotating-proxies-python): rotate a proxy list or use a gateway
 
-[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=python-download-images) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=python-download-images).
+[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=python-download-images) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=python-download-images).
 
 ## License
 
